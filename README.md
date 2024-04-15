@@ -5,18 +5,16 @@
 The goal of this TP is to create a Java application that interacts with an HBase table to perform CRUD (Create, Read, Update, Delete) operations. Managing a `Students` table for a school management application. This table is designed to store information about students.
 
 ## Exercise Description and Results
+- Table Creation
+  - The `Students` table was created with the following column:
+  - `info`: to store the personal information of students.
+  - `grades`: to store students' grades.
 
-#### 1. Table Creation
-The `Students` table was created with the following column:
-
-- `info`: to store the personal information of students.
-- `grades`: to store students' grades.
-
-#### 2. Adding Students
-#### 3. Retrieve Student Information
-#### 4. Update Student Information
-#### 5. Delete a Student
-#### 6. Display All Student Information
+- Adding Students
+- Retrieve Student Information
+- Update Student Information
+- Delete a Student
+- Display All Student Information
 
 ## Execution Results
 
